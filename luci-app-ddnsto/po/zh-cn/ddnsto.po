@@ -8,7 +8,7 @@ msgid "Click to open DDNS.to"
 msgstr "点击打开DDNS.to"
 
 msgid "DDNS.to is a reverse proxy.Please go to"
-msgstr "DDNS.to是一个内网穿透工具，请往官网登录👉"
+msgstr "DDNS.to是一个内网穿透工具.请往官网登录"
 
 msgid "Official Website"
 msgstr "https://www.ddnsto.com"
