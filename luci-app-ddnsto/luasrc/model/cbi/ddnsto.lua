@@ -19,5 +19,3 @@ s:option(Flag, "enabled", translate("Enable")).rmempty=false
 s:option(Value, "token", translate("Token")).rmempty=false
 
 return m
-
-
