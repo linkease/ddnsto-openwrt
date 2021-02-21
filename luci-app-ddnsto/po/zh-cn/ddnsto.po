@@ -10,9 +10,6 @@ msgstr "点击打开DDNS.to"
 msgid "DDNS.to is a reverse proxy."
 msgstr "DDNS.to是一个内网穿透工具。"
 
-msgid "Official Website"
-msgstr "官网"
-
 msgid "Token"
 msgstr "令牌"
 
