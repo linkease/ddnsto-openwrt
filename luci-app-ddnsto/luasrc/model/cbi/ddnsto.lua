@@ -4,8 +4,8 @@
 local m, s
 
 m = Map("ddnsto", translate("DDNS.to"), translate("DDNS.to is a reverse proxy.")
-	.. " <a href=\"https://www.ddnsto.com/\" onclick=\"void(0)\" target=\"_blank\">"
-	.. translate("Official Website")
+	.. " <a href=\"https://www.ddnsto.com/\" onclick=\"void(0)\" target=\"_blank\" style=\"font-size:15px\">"
+	.. translate("https://www.ddnsto.com")
 	.. "</a>")
 
 m:section(SimpleSection).template  = "ddnsto_status"
