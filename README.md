@@ -15,3 +15,24 @@ package/network/services/ddnsto
 └── Makefile
 ```
 
+### make menuconfig 选择方法
+
+```
+make menuconfig
+
+Network --->
+Web Servers/Proxies --->
+<*> ddnsto....................................... DDNS.to - the reverse proxy
+
+LuCI --->
+3. Applications --->
+<*> luci-app-ddnsto.................................. LuCI support for ddnsto
+```
+
+### 部分 Openwrt 老版本兼容性问题
+
+安装完成点击配置，需要手动运行命令：
+
+```
+/etc/init.d/ddnsto enable
+```
