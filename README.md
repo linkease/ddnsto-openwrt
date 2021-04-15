@@ -1,3 +1,7 @@
+# 项目迁移了，请看：
+
+项目已经迁移到新地址：https://github.com/linkease/nas-packages
+
 # ddnsto-openwrt
 ddnsto for openwrt
 
